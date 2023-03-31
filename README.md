@@ -10,7 +10,7 @@ Ryan Maguire: https://github.com/rmaguire2020/SQL_Project
 
 Amy Nguyen: https://github.com/AmyN137/MySQL-Farm 
 
-Destinee Pruden: https://github.com/DPRUDEN25MySQL-Farm-Project
+Destinee Pruden: https://github.com/DPRUDEN25/DPRUDEN-SQL-Farm
 
 Sevastian Guerrero: https://github.com/sevasguerrero
 
@@ -31,6 +31,8 @@ The problem being modeled by the farm data model is the process of recording the
 
 
 ## Farm Data Model
+
+ <p align="center"
 
 ![App Screenshot](https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Data%20Model.png)
 
